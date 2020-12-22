@@ -8,7 +8,7 @@ class WonderScreen extends StatefulWidget {
 }
 
 class _WonderScreenState extends State<WonderScreen> {
-  String image = "england.png";
+  String image = "china.png";
 
   List<String> list = List.of({
     "china.png",
